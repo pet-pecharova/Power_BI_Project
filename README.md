@@ -1,7 +1,7 @@
 # INDIA - The Key Data & Trends (Economy / Population)
 ## Power BI Projekt - Datová akademie Engeto, Online, 6-9/2023
 
-Tento report vznikl jako samostatná záverečná práce v Power BI v rámci Datové akademie Engeto, probíhající online v termínu 20. 6. 2023 - 12. 9. 2023. Téma jsem zvolila částečně s ohledem na vystudovaný obor (FF UK, filologie - indologie se spec. hindština) a pracovní pozici před nástupem na MD/RD (ŠKODA AUTO a.s., Specialista řízení regionu Indie). Vzhledem ke zdrojům dat je report vypracován v angličtině.
+Tento report vznikl jako samostatná záverečná práce v Power BI v rámci Datové akademie Engeto, probíhající online v termínu 20. 6. 2023 - 12. 9. 2023. Téma jsem zvolila částečně s ohledem na vystudovaný obor (FF UK, Filologie - indologie se spec. hindština) a pracovní pozici před nástupem na MD/RD (ŠKODA AUTO a.s., Specialista řízení regionu Indie). Vzhledem ke zdrojům dat je report vypracován v angličtině.
 
 Kompletní zadání projetku je k dispozici níže.
 
